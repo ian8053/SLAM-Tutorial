@@ -120,15 +120,6 @@ z 是 landmark 嗎？
 8. Graphical Model 圖形模型
 ---------------------------
 
-時間:     t=0      t=1      t=2      ...     t=T
-
-位置:     x0  -->  x1  -->  x2  -->  ...  --> xt   [要估計]
-                    ^        ^
-控制:              u1       u2       ...     ut   [已知]
-
-觀測:              z1       z2       ...     zt   [有噪聲]
-                    ^        ^
-地圖:               m        m        ...     m    [要估計]
 
 ![Graphical Model](Graphical_Model.jpg)
 
