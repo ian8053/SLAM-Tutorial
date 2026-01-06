@@ -121,8 +121,6 @@ z 是 landmark 嗎？
 ---------------------------
 
 
-![Graphical Model](Graphical_Model.jpg)
-
 
 箭頭的意義：
   - 箭頭 = 影響 (influences)
