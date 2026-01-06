@@ -1,10 +1,6 @@
 SLAM Course 01 - Introduction to Robot Mapping 筆記
 =====================================================
 
-Source:
-  Video: SLAM-Course - 01 - Introduction to Robot Mapping (2013/14; Cyrill Stachniss)
-  URL: https://www.youtube.com/watch?v=wVsfCnyt5jA
-  Lecturer: Cyrill Stachniss (University of Freiburg)
 
 1. 六個核心術語 (Terms)
 -----------------------
