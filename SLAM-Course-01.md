@@ -120,6 +120,7 @@ z 是 landmark 嗎？
 8. Graphical Model 圖形模型
 ---------------------------
 
+![Graphical Model](https://github.com/user-attachments/assets/6e45fd1d-de07-43c3-a315-c1b379a6543b)
 
 
 箭頭的意義：
