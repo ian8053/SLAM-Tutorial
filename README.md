@@ -59,6 +59,11 @@ https://github.com/user-attachments/assets/3e65760d-427f-4b15-8fb9-de81f4d02a6b
 - [EKF-SLAM Math Notes](04-ekf-slam/notes.md) — Full derivation: state/observation equations, A/B/H matrices, Jacobian
 - [SSM & EKF Interview Notes](04-ekf-slam/interview-notes.md) — SLAM drift debugging methodology
 
+
+https://github.com/user-attachments/assets/11646dbe-f3f8-46b4-ae7f-806f8b9cc66e
+
+
+
 ---
 
 ### 05 — Particle Filter
@@ -70,6 +75,12 @@ https://github.com/user-attachments/assets/3e65760d-427f-4b15-8fb9-de81f4d02a6b
 | Measurement Update & Weighting | [pf_update_step.py](05-particle-filter/pf_update_step.py) |
 | Resampling Strategies | [pf_resampling.py](05-particle-filter/pf_resampling.py) |
 | Practical Limitations | [pf_limitations.py](05-particle-filter/pf_limitations.py) |
+
+
+
+https://github.com/user-attachments/assets/fef6f8e9-3f78-4d4a-b678-e35f8a4c2496
+
+
 
 ---
 
@@ -84,6 +95,12 @@ https://github.com/user-attachments/assets/3e65760d-427f-4b15-8fb9-de81f4d02a6b
 - [Tracking Code Review Part 2](06-orbslam3/tracking-part2.md) — Continued code walkthrough
 - [Tracking Q&A](06-orbslam3/tracking-notes.md) — Common tracking issues and solutions
 
+
+
+https://github.com/user-attachments/assets/cd9b036f-7c5b-4f8f-ae79-f9d16bce170c
+
+
+
 ---
 
 ### 07 — TSDF & Semantic 3D Mapping
@@ -92,6 +109,12 @@ https://github.com/user-attachments/assets/3e65760d-427f-4b15-8fb9-de81f4d02a6b
 | Video | Source Code |
 |-------|-------------|
 | TSDF Complete Pipeline | [tsdf_final.py](07-tsdf-semantic-mapping/tsdf_final.py) |
+
+
+
+https://github.com/user-attachments/assets/98b71068-9794-4e28-88ed-f805342d9dba
+
+
 
 ---
 
