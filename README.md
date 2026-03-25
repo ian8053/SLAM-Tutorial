@@ -43,6 +43,10 @@ Each stage relaxes an assumption of the previous one.
 | Kalman Filter — Sensor Fusion Overview | [ssm_kf_ekf_pf.py](03-kalman-filter/ssm_kf_ekf_pf.py) |
 | KF 7 Equations Step-by-Step | [kf_7equations.py](03-kalman-filter/kf_7equations.py) |
 
+
+https://github.com/user-attachments/assets/3e65760d-427f-4b15-8fb9-de81f4d02a6b
+
+
 ---
 
 ### 04 — Extended Kalman Filter & EKF-SLAM
